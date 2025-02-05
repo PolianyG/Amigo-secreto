@@ -1,5 +1,5 @@
 # Amigo secreto ![amigo-secreto](https://github.com/user-attachments/assets/6c16c2a7-7014-4786-9b23-7aba3d83777b)
-<p> Projeto realizado no curso de lógica de programação da Alura.
+<p> Projeto realizado no curso de lógica de programação da Alura Oracle One.
 
 ## :hammer: Funcionalidade do projeto
 O site realiza o sorteio com os nomes adicionados para um amigo secreto. 
