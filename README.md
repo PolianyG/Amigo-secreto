@@ -17,7 +17,7 @@ O site realiza o sorteio com os nomes adicionados para um amigo secreto.
 
 Você pode acessar o código fonte do projeto [aqui](https://github.com/PolianyG/Amigo-secreto).
 
-## Autora 
+## 👤​ Autora 
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/196366649?v=4" width=115><br><sub>Poliany Guimarães</sub>](https://github.com/PolianyG) |
 | :---: |
